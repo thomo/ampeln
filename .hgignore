@@ -1,0 +1,8 @@
+syntax: glob
+*.err
+*.lst
+*.cof
+*.O
+*.map
+*.mcs
+*.mcw
