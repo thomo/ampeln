@@ -32,3 +32,9 @@ Wenn An
 - gelb + grün
 - grün
 - (goto 1)
+
+# Bilder von verschiedenen Ampeln
+
+![CQM Ampel 1](https://bytebucket.org/thomo/ampeln/raw/default/images/cqm_ampel_1.jpg)
+![CQM Ampel 2](https://bytebucket.org/thomo/ampeln/raw/default/images/cqm_ampel_2.jpg)
+![TDD Ampel (red-green-refactor)](https://bytebucket.org/thomo/ampeln/raw/default/images/tdd_ampel.jpg)
