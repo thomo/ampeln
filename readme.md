@@ -3,38 +3,39 @@
 ## Designkurzbeschreibung 
 
 - 4 Seiten Ampel
-- 1 Taster für An/Aus (WakeUp/Sleep) und Mode (Normal/Nacht)
-- LEDs über Transistor angesteuert
+- 1 Taster fÃ¼r An/Aus (WakeUp/Sleep) und Mode (Normal/Nacht)
+- LEDs Ã¼ber Transistor angesteuert
 - Interner Taktgeber
 
 ## Benutzung
 
 Wenn Aus
-* -> Taster drücken -> An
+* -> Taster drÃ¼cken -> An
 
 Wenn An 
-* -> Taster kurz drücken -> Wechsel zwischen Tag/Nacht Modus
-* -> Taster lang drücken -> Aus
+* -> Taster kurz drÃ¼cken -> Wechsel zwischen Tag/Nacht Modus
+* -> Taster lang drÃ¼cken -> Aus
  
 ## Verwendung 
-- Ampel für Alma
+- Ampel fÃ¼r Alma
 
  
 # Einfache CQM Ampeln
 
-## Variante für fhc und ful
+## Variante fÃ¼r fhc und ful
 
 ### Ampelphasen
 
 - rot
 - rot + gelb
 - gelb
-- gelb + grün
-- grün
+- gelb + grÃ¼n
+- grÃ¼n
 - (goto 1)
 
 # Bilder von verschiedenen Ampeln
 
-![CQM Ampel 1](https://bytebucket.org/thomo/ampeln/raw/default/images/cqm_ampel_1.jpg)
-![CQM Ampel 2](https://bytebucket.org/thomo/ampeln/raw/default/images/cqm_ampel_2.jpg)
-![TDD Ampel (red-green-refactor)](https://bytebucket.org/thomo/ampeln/raw/default/images/tdd_ampel.jpg)
+![CQM Ampel 1](images/cqm_ampel_1.jpg)
+![CQM Ampel 2](images/cqm_ampel_2.jpg)
+
+![TDD Ampel (red-green-refactor)](images/tdd_ampel.jpg)
